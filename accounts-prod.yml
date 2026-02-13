@@ -3,7 +3,7 @@ app:
   version: "1.3"
 
 student:
-  message: "John Personal Details from ProdEnvironment"
+  message: "John Personal Details from Production Environment"
   identity:
     name: "smith-Prod"
     email: "smith@gmail.com"
